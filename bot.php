@@ -1,5 +1,4 @@
 <?php
-die('as');
 require __DIR__.'/vendor/autoload.php';
 require __DIR__.'/lib/lib.php';
 require __DIR__.'/lib/vk.api.php';
